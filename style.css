@@ -67,9 +67,6 @@ button img{
     width: 500px;
 }
 
-.shadow{
-    box-shadow: none;
-}
 .hover:hover{
     cursor: pointer;
     background-color: #57406E;
@@ -126,5 +123,8 @@ button img{
         height: 20px;
         margin: 10px;
         margin-left: 0px;
+    }
+    .shadow{
+        box-shadow: none;
     }
   }
