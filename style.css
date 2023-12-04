@@ -100,15 +100,14 @@ button img{
     body{
         flex-direction: column;
     }
-    .calendario{
-        flex: 1.1;
-    }
+
     .detalhesDia{
         border-radius: 15px 15px 0 0;
         width: 100%;
         padding: 0;
     }
     .cabecalho {
+        margin-top: 10px;
         width: 200px;
         transform: translateX(-10px);
     }
