@@ -65,6 +65,7 @@ button img{
 
 .dias{
     width: 500px;
+    flex-wrap: wrap;
 }
 
 .hover:hover{
