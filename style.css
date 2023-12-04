@@ -65,7 +65,10 @@ button img{
 
 .dias{
     width: 500px;
-    flex-wrap: wrap;
+}
+
+.shadow{
+    box-shadow: none;
 }
 .hover:hover{
     cursor: pointer;
